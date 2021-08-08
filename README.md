@@ -1,4 +1,4 @@
-#Lista de tarefas
+# Lista de tarefas
 
 <h3>Pequeno projeto de uma lista de tarefas para praticar JavaScript</h3>
 
